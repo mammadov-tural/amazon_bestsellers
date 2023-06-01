@@ -4,7 +4,7 @@
 You are a data analyst at Amazon and your manager has asked you to analyze some data. She has provided the following set of questions she would like answered.
 
 ## Get the Data
-Download the dataset here.
+Download the dataset [here](https://github.com/kedeisha1/Challenges/blob/main/bestsellers%20with%20categories.csv).
 
 ## Challenge Questions
 Is there any missing data?
